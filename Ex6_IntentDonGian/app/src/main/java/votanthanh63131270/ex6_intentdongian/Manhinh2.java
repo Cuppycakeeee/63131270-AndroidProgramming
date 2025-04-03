@@ -19,5 +19,5 @@ public class Manhinh2 extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-    }
+    }}
 
