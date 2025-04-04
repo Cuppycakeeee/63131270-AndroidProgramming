@@ -13,6 +13,21 @@
         android:theme="@style/Theme.Thigiuaki_63131270_VoTanThanh"
         tools:targetApi="31">
         <activity
+            android:name=".AboutmeActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Function4Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".Function3Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".Function2Activity2"
+            android:exported="false" />
+        <activity
+            android:name=".Function22Activity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
